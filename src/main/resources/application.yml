@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://srini:Srini2@srinicrud.rfizn.mongodb.net/?retryWrites=true&w=majority
+            database: test
